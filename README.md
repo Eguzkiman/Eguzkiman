@@ -1,16 +1,19 @@
-### Hi there 👋
+## Howdy, friends
 
-<!--
-**Eguzkiman/Eguzkiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write JS for the web 👾 during the day, and hack robots 🤖 with python at night.
 
-Here are some ideas to get you started:
+FE dev @[Spot On LLC](https://www.spoton.com/)
+Programming mentor of FRC Team [Keybot 5716](https://www.facebook.com/keybot.first/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ask me about 💬
+- ⚛️ React stuffs
+- 🌟 Typescript
+- 🧩 Authoring component libraries
+- 🤖🐍 robotpy
+- 👀 Computer vision
+- 🕺 Hamilton lyrics
+
+### Find me on the web! 🌎
+* 🐦 [Twitter](https://twitter.com/Eguzkiman)
+* 👔 [Linkedin](https://www.linkedin.com/in/eguzkiman/)
+
