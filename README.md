@@ -1,11 +1,14 @@
 ## Howdy, friends
 
-I write frontend stuff for [Lyft](https://www.lyft.com/) 🚗 during the day, hack robots with python during the night 🤖
+I write frontend stuff for Lyft 🚗 during the day, hack robots with python during the night 🤖
 
-FE engineer @ [Lyft](https://www.lyft.com/)
+FE engineer @ [Lyft](https://eng.lyft.com/)
+
 Programming mentor of FRC Team [Keybot 5716](https://www.facebook.com/keybot.first/)
 
 Compulsive hamilton watcher
+
+🇲🇽
 
 ### Ask me about 💬
 - ⚛️ React stuffs
