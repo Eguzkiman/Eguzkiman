@@ -1,14 +1,15 @@
 ## Howdy, friends
 
-I write JS for the web 👾 during the day, and hack robots 🤖 with python at night.
+I write frontend stuff.
 
-FE dev @ [Spot On LLC](https://www.spoton.com/)
+FE engineer @ [Lyft](https://www.lyft.com/)
 Programming mentor of FRC Team [Keybot 5716](https://www.facebook.com/keybot.first/)
+
+Compulsive hamilton watcher
 
 ### Ask me about 💬
 - ⚛️ React stuffs
 - 🌟 Typescript
-- 🧩 Authoring component libraries
 - 🤖🐍 robotpy
 - 👀 Computer vision
 - 🕺 Hamilton lyrics
@@ -16,4 +17,5 @@ Programming mentor of FRC Team [Keybot 5716](https://www.facebook.com/keybot.fir
 ### Find me on the web! 🌎
 * 🐦 [Twitter](https://twitter.com/Eguzkiman)
 * 👔 [Linkedin](https://www.linkedin.com/in/eguzkiman/)
+* 📬 [E-mail](eguzkia@lyft.com)
 
