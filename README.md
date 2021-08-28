@@ -20,5 +20,5 @@ Compulsive hamilton watcher
 ### Find me on the web! 🌎
 * 🐦 [Twitter](https://twitter.com/Eguzkiman)
 * 👔 [Linkedin](https://www.linkedin.com/in/eguzkiman/)
-* 📬 [E-mail](mailto:eguzkia@lyft.com)
+* 📬 [E-mail](eguzkia@lyft.com)
 
